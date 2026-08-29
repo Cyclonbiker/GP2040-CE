@@ -28,7 +28,7 @@
 #define GPIO_PIN_08 GpioAction::BUTTON_PRESS_L1
 #define GPIO_PIN_09 GpioAction::BUTTON_PRESS_B3   // Square
 #define GPIO_PIN_10 GpioAction::BUTTON_PRESS_B1   // Cross
-#define GPIO_PIN_11 GpioAction::BUTTON_PRESS_R1
+#define GPIO_PIN_11 GpioAction::BUTTON_PRESS_S2
 
 // =====================================================
 // BOTONES AUXILIARES
@@ -37,7 +37,7 @@
 #define GPIO_PIN_13 GpioAction::BUTTON_PRESS_S1   // Select / Back
 #define GPIO_PIN_14 GpioAction::BUTTON_PRESS_L2
 #define GPIO_PIN_15 GpioAction::BUTTON_PRESS_R2
-#define GPIO_PIN_16 GpioAction::BUTTON_PRESS_S2   // Start
+#define GPIO_PIN_16 GpioAction::BUTTON_PRESS_R1   // Start
 
 // =====================================================
 // KEYBOARD MAPPING
