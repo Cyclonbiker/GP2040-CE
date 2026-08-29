@@ -60,6 +60,9 @@
 #define KEY_BUTTON_S1     HID_KEY_5
 #define KEY_BUTTON_S2     HID_KEY_1
 #define KEY_BUTTON_A1     HID_KEY_9
+#define KEY_BUTTON_L3     HID_KEY_EQUAL
+#define KEY_BUTTON_R3     HID_KEY_MINUS
+#define KEY_BUTTON_A2     HID_KEY_F2
 
 #define KEY_BUTTON_FN     -1
 
